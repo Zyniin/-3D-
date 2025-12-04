@@ -4,7 +4,6 @@
 
 ## 项目结构
 
-- `fig1_framework.py` - 主框架代码
 - `attack_water_marking/` - 水印攻击测试相关代码
   - `clip.py` - 裁剪功能
   - `compare.py` - 比较功能

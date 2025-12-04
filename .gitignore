@@ -1,0 +1,65 @@
+# Python编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Java编译文件
+*.class
+*.jar
+*.war
+*.ear
+target/
+.idea/
+*.iml
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 备份文件
+*.zip
+*.backup
+*_backup.*
+
+# 日志文件
+*.log
+hs_err_pid*.log
+
+# 历史记录和临时文件
+.history/
+.specstory/
+*.tmp
+*.temp
+
+# Office文档（不上传文档）
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# 图片文件（不上传图片）
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+
+# 其他非代码文件
+.cursorindexingignore
